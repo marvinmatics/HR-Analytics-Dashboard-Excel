@@ -1,6 +1,4 @@
 ![HR Analytics Dashboard](HRdashboard.png)
-
-# HR-Analytics-Dashboard-Excel
 # HR Analytics Dashboard Using Excel
 
 ## Project Overview
